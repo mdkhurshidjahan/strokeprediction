@@ -1,6 +1,4 @@
-# Stroke Prediction Using Machine Learning
-- *By Mayank, Pritika and Shivam | 04/21 - 07/21 | Major Project*
-
+# Stroke Prediction Using Machine Learni
 *Dataset Used:- https://www.kaggle.com/fedesoriano/stroke-prediction-dataset*
 
 ### Description:
